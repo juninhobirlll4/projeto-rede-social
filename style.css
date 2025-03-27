@@ -34,6 +34,22 @@ main{
     background-repeat: no-repeat;
 }
 
+#redes-sociais{
+    text-align: right;
+}
+
+#redes-sociais a img{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+
+#redes-sociais a img:hover{
+    margin: 0px;
+    transition-duration: 1s;
+}
+
 iframe#tela{
     position: relative;
     top: 80px;
