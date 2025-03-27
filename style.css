@@ -47,7 +47,7 @@ main{
 
 #redes-sociais a img:hover{
     margin: 0px;
-    transition-duration: 1s;
+    transition-duration: .3s;
 }
 
 iframe#tela{
